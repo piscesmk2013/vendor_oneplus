@@ -1498,6 +1498,7 @@ PRODUCT_PACKAGES += \
     libantradio \
     libsdm-disp-vndapis \
     SoterService \
+    OnePlusCameraService \
     CneApp \
     IWlanService \
     PowerOffAlarm \

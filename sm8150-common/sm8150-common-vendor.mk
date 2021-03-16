@@ -1502,7 +1502,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
-    libplatformconfig \
     libsdm-disp-vndapis \
     libqct_resampler \
     SoterService \

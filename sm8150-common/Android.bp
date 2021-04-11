@@ -129,6 +129,7 @@ android_app_import {
 	owner: "oneplus",
 	apk: "proprietary/system_ext/app/NxpNfcNci/NxpNfcNci.apk",
 	certificate: "platform",
+	overrides: ["NfcNci NQNfcNci"],
 	dex_preopt: {
 		enabled: false,
 	},
@@ -140,6 +141,7 @@ android_app_import {
 	owner: "oneplus",
 	apk: "proprietary/system_ext/app/NxpSecureElement/NxpSecureElement.apk",
 	certificate: "platform",
+	overrides: ["SecureElement"],
 	dex_preopt: {
 		enabled: false,
 	},

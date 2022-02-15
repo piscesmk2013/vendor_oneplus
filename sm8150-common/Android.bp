@@ -186,6 +186,12 @@ android_app_import {
 }
 
 dex_import {
+	name: "WfdCommon",
+	owner: "oneplus",
+	jars: ["proprietary/system/framework/WfdCommon.jar"],
+}
+
+dex_import {
 	name: "qcnvitems",
 	owner: "oneplus",
 	jars: ["proprietary/system/framework/qcnvitems.jar"],
@@ -195,6 +201,13 @@ dex_import {
 	name: "tcmclient",
 	owner: "oneplus",
 	jars: ["proprietary/system/framework/tcmclient.jar"],
+}
+
+dex_import {
+	name: "com.android.hotwordenrollment.common.util",
+	owner: "oneplus",
+	jars: ["proprietary/system_ext/framework/com.android.hotwordenrollment.common.util.jar"],
+	system_ext_specific: true,
 }
 
 dex_import {
@@ -208,13 +221,6 @@ dex_import {
 	name: "dpmapi",
 	owner: "oneplus",
 	jars: ["proprietary/system_ext/framework/dpmapi.jar"],
-	system_ext_specific: true,
-}
-
-dex_import {
-	name: "com.android.hotwordenrollment.common.util",
-	owner: "oneplus",
-	jars: ["proprietary/system_ext/framework/com.android.hotwordenrollment.common.util.jar"],
 	system_ext_specific: true,
 }
 

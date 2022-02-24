@@ -140,8 +140,11 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.ofilm_s5k3m5.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.ofilm_s5k3m5.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_2nd_lens_imx586.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_2nd_lens_imx586.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_imx481.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_imx481.bin \
+    vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_imx481_no_otp.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_imx481_no_otp.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
+    vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_imx586_no_otp.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_imx586_no_otp.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin \
+    vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.semco_s5k3m5_no_otp.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.semco_s5k3m5_no_otp.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_imx471.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_imx471.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
     vendor/oneplus/hotdog/proprietary/vendor/lib64/camera/com.qti.tuned.ofilm_imx481.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.ofilm_imx481.bin \
